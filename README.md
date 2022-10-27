@@ -1,7 +1,9 @@
-### Hi there 👋
-### I'm Mihir Chakma 😊
-#### I'm a software engineering student 👨‍🎓
-🌱 I’m currently learning Rust Programming 👨‍💻
+### Hi 👋
+
+#### I'm Mihir Chakma.😊
+
+- 🎓 I'm a student of BEng (Hons) in Software Engineering 🧑‍🎓 
+- 🌱 I’m currently learning Rust Programming 👨‍💻
 
 <!--
 **mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
