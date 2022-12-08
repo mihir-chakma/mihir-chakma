@@ -2,7 +2,7 @@
 
 #### I'm Mihir Chakma.😊
 
-- 🎓 I'm a studying Bachelor of Applied Information Technology 🧑‍🎓 
+- 🎓 I'm studying Bachelor of Applied Information Technology 🧑‍🎓 
 - 🌱 I’m currently learning Rust Programming 👨‍💻
 
 <!--
