@@ -4,7 +4,7 @@
 
 - 🎓 I'm studying Bachelor of Applied Information Technology 🧑‍🎓 
 - 🌱 I’m currently learning Rust Programming 👨‍💻
-- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">(https://mastodon.social/@chakma)</a>
+- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">Mihir Chakma</a>
 
 <!--
 **mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
