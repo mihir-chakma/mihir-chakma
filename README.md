@@ -1,9 +1,10 @@
-### Hi 👋
+### Hello 👋
 
-#### I'm Mihir Chakma.😊
+### I'm Mihir Chakma.😊
 
-- 🎓 I'm studying Bachelor of Applied Information Technology 🧑‍🎓 
-- 🌱 I’m currently learning Rust and V Programming 👨‍💻
+- 🎓 I'm an undergraduate in Bachelor of Applied Information Technology 🧑‍🎓 
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [V](https://vlang.io/) Programming 👨‍💻
+- 👯 I’m looking to collaborate on open-sourse projects.
 - 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">Chakma</a>
 
 <!--
