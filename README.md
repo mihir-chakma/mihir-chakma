@@ -1,11 +1,13 @@
-### Hello 👋
-
-### I'm Mihir Chakma.😊
-
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Mihir
 - 🎓 I'm an undergraduate in Bachelor of Applied Information Technology 🧑‍🎓 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [V](https://vlang.io/) Programming 👨‍💻
 - 👯 I’m looking to collaborate on open-sourse projects.
 - 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">Chakma</a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical)](https://github.com/mihirchakma/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical)
 
 <!--
 **mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
