@@ -7,32 +7,20 @@
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical)](https://github.com/mihirchakma/github-readme-stats)
+<a href="https://github.com/mihirchakma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" /> </a><a href="https://github.com/mihirchakma/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical)
 
 [twitter]: https://twitter.com/mihir_chakma
-[youtube]: http://youtube.com/@mihirchakmain
-[devto]: https://dev.to/mihirchakma
+[Instagram]: https://www.instagram.com/mihir_chakma/
 
+## Connect With Me:
 
-<!-- [instagram]: https://www.instagram.com/patloeber/ -->
-<!-- [discord]: https://discord.gg/FHMg9tKFSN -->
-<!-- [website]: https://www.python-engineer.com/ -->
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
-<!-- ## Connect With Me: -->
-
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto] -->
-
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] -->
 
 <!--
 **mihirchakma/mihirchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
