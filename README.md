@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Mihir
 ## I'm an Undergraduate and Rust Enthusiast.
 - 🎓 I'm an undergraduate in Bachelor of Applied Information Technology 🧑‍🎓 
-- 🌱 I’m currently learning [Rust](<a href="https://www.rust-lang.org" target="_blank") Programming 👨‍💻
+- 🌱 I’m currently learning <a href="https://www.rust-lang.org" target="_blank">Rust</a> Programming 👨‍💻
 - 🐦 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma" target="_blank">Chakma</a>
 <!-- - 👯 I’m looking to collaborate on open-sourse projects. -->
 
 ## My GitHub Stats 💻
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" target="_blank" /> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical" target="_blank" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" target="_blank"/> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical" target="_blank"/></a>
 
 
 [twitter]: https://twitter.com/mihir_chakma
