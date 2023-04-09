@@ -2,7 +2,7 @@
 ## I'm an Undergraduate and Rust Enthusiast.
 - 🎓 I'm an undergraduate in Bachelor of Applied Information Technology 🧑‍🎓 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) Programming 👨‍💻
-- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">Chakma</a>
+- 🐦 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">Chakma</a>
 <!-- - 👯 I’m looking to collaborate on open-sourse projects. -->
 
 ## My GitHub Stats 💻
