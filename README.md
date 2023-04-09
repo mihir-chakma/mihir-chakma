@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Mihir
 ## I'm an Undergraduate and Rust Enthusiast.
 - 🎓 I'm an undergraduate in Bachelor of Applied Information Technology 🧑‍🎓 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) Programming 👨‍💻
-- 🐦 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">Chakma</a>
+- 🌱 I’m currently learning [Rust](<a href="https://www.rust-lang.org" target="_blank") Programming 👨‍💻
+- 🐦 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma" target="_blank">Chakma</a>
 <!-- - 👯 I’m looking to collaborate on open-sourse projects. -->
 
 ## My GitHub Stats 💻
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" /> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" target="_blank" /> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical" target="_blank" /></a>
 
 
 [twitter]: https://twitter.com/mihir_chakma
@@ -15,8 +15,8 @@
 
 ## Connect With Me:
 
-[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram]
 
 
 <!--
