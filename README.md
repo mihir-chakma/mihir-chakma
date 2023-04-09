@@ -7,7 +7,7 @@
 
 ## My GitHub Stats 💻
 
-<a href="https://github.com/mihirchakma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" /> </a><a href="https://github.com/mihirchakma/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" /> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical"/></a>
 
 
 [twitter]: https://twitter.com/mihir_chakma
