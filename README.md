@@ -9,6 +9,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" target="_blank"/> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical" target="_blank"/></a>
 
+![Github Snake](github-user-contribution.svg)
 
 [twitter]: https://twitter.com/mihir_chakma
 [Instagram]: https://www.instagram.com/mihir_chakma/
