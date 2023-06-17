@@ -12,7 +12,7 @@
 ![Github Snake](github-user-contribution.svg)
 
 [twitter]: https://twitter.com/mihir_chakma
-[Instagram]: https://www.instagram.com/mihir_chakma/
+[Instagram]: https://www.instagram.com/mihirchakma/
 
 ## Connect With Me:
 
