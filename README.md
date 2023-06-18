@@ -9,6 +9,20 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirchakma&langs_count=8&theme=radical" alt="Anurag's github stats" target="_blank"/> </a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=mihirchakma&show_icons=true&theme=radical" target="_blank"/></a>
 
+<br />
+<h3 align="center">Show Some &nbsp;❤️&nbsp; | ⭐ This Repository</h3>
+
+---
+<img align="left" alt="Dog" width="150" src="shiba.gif" />
+<img align="right" alt="Dog" width="150" src="shiba.gif" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mihirchakma/count.svg" />
+</p>
+
+<br />
+<br />
+
 ![Github Snake](github-user-contribution.svg)
 
 [twitter]: https://twitter.com/mihir_chakma
