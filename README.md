@@ -1,8 +1,9 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Mihir Chakma
 ## I'm an Undergraduate and Rust Enthusiast.
-- 🎓 I'm an undergraduate with a Bachelor of Applied Information Technology.🧑‍🎓 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org) Programming 👨‍💻
-- 🐦 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">Chakma</a>
+
+- 🔭 I'm an undergraduate studying **`Bachelor of Applied Information Technology`**. 🧑‍🎓
+- 🌱 I’m currently learning [__`Rust`__](https://www.rust-lang.org/) Programming. 👨‍💻
+- 🐦 I’m on Mastodon <a rel="me" href="https://mastodon.social/@chakma">`Chakma`</a>
 <!-- - 👯 I’m looking to collaborate on open-source projects. -->
 
 ## My GitHub Stats 💻
